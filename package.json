@@ -1,0 +1,24 @@
+{
+  "name": "web-scraping-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketre/webscaping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketre/webscaping/issues"
+  },
+  "homepage": "https://github.com/ketre/webscaping#readme",
+  "dependencies": {
+    "got": "^10.4.0",
+    "jsdom": "^16.2.2"
+  }
+}
